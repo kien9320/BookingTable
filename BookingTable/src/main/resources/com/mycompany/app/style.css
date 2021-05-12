@@ -1,0 +1,55 @@
+.pane{
+    -fx-background-image: url("bground.jpg");
+    -fx-background-size: 100%;
+    -fx-background-repeat: no-repeat;
+    -fx-position: absolute;
+}
+.box{
+    -fx-margin-top: auto;
+    -fx-font-size: 10pt;
+    -fx-position: fixed;
+}
+
+.lable1{
+    -fx-alignment: center;
+    -fx-text-align: center;
+    -fx-text-fill : white;
+}
+
+.btn-search{
+    -fx-background-color: white;
+    -fx-text-fill: black;
+    -fx-border-color: burlywood;
+    
+}
+.btn-search:hover{
+    -fx-background-color: black;
+    -fx-text-fill: white;
+    -fx-border-color:white;
+}
+
+.pane2{
+    -fx-background-color: white;
+    -fx-margin: black 2px;
+    -fx-position: absolute;
+    -fx-border-color: burlywood;
+}
+.mess{
+    -fx-background-color: white;
+    -fx-alignment: center;
+    -fx-text-align: center;
+    -fx-text-fill:red;
+    
+}
+.textField{
+    -fx-border-color: chocolate;
+    
+}
+.lb{
+    -fx-background-color: burlywood;
+    -fx-text-fill:white;
+    -fx-alignment: center;
+    -fx-text-align: center;
+}
+
+
